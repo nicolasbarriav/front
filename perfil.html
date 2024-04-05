@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link 
+        rel="stylesheet" 
+        href="https://fonts.googleapis.com/css?family=Merriweather">
+    <link 
+        rel="stylesheet" 
+        href="styles/styles.css">
+    
+    <!--Jquery-->
+    <!-- <script src="jquery-3.7.1.min.js"></script>       -->
+    <!-- Iconos -->
+    <script src="https://kit.fontawesome.com/3c9effd9a5.js" crossorigin="anonymous"></script>
+    <!-- Javascript -->
+    <script src="index.js"></script> 
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const user_id = urlParams.get('userid');
+        console.log("[USER ID:]"+user_id);
+        showPostsPerfil(user_id);
+    </script>  
+</head>
+<body>
+    <div class="title" ><a href="./index.html">Integram</a></div>
+    <div class="center">
+        <img class="img01" src="https://hackmd.io/_uploads/SJTayKuyA.png">
+    </div>
+    <div class="perfil">
+        
+    </div>
+    <div class="container" id="cont00">
+    </div>
+    
+</body>
+</html>

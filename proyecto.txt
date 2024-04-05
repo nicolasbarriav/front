@@ -1,0 +1,25 @@
+SIMULAR OPERACION DE IKEA
+
+armar muebles y venderlo.
+
+Nos dan un servideor: ubunto 20.04
+->crear ambiente de trabajo: en un docker mejor
+->instalar webserver: ngnx
+->instalar git
+->wap server
+->crear api, consumir
+->subcribirse a eventos y recibir eventos
+->integrarse a file transfer protocol
+-> consumir API SOAP
+->lets and grip https gratis
+
+->system ctl ->corre programa para relevantar
+->tareas cron: para levantar un programa cada x minutos...
+-> OJO hay 2 gb ram y 10 disco duro: ocupar todo significa que no nos podamos ni meter y responden a lo menos un dia habil (finde son 3 dias)
+
+Habra un servidor del curso donde todos tienen contactos
+
+Además, debemos comunicarnos con servidores de los compañeros
+
+Hay que tratar de desplegar lo antes posible.
+Hay base de datos de produccion y otra de desarrollo.
