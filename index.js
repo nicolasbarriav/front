@@ -1,4 +1,4 @@
-const mainUrl = "http://localhost:3000";
+const mainUrl = "https://tarea-1-nicolasbarriav.onrender.com";
 const myOptions = {
     method: "POST",
 };
